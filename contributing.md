@@ -217,3 +217,5 @@ it impossible to tell what is causing a problem if something breaks.
 <p align="center"><a href="https://share.google/I6JWBBGQXJwhy1Avu"><b>📖 Instructions — Overwatch 2 (2026)</b></a></p>
 
 <p align="center"><sub>Shared under the MIT License · Updated 2026-10-25</sub></p>
+
+<!-- rev 2026-10-25 -->
